@@ -5,8 +5,8 @@ This repository uses the excellent [libMultiRobotPlanning](https://github.com/wh
 ## Installation
 
 1. `git clone [TODO]`
-2. install prerequisites (python3, cmake, boost):
-    - linux (debian) commands: `sudo apt-get install python3 cmake`
+2. install prerequisites (python3) and libMultiRobotPlanning prerequisites (cmake, boost, lib-yaml, doxygen):
+    - linux (debian) commands: `sudo apt-get install python3 cmake libyaml-cpp-dev doxygen libboost-all-dev`
 3. compile libMultiRobotPlanning:
     ```
     cd libMultiRobotPlanning/
@@ -19,6 +19,6 @@ This repository uses the excellent [libMultiRobotPlanning](https://github.com/wh
 
 ## Workflow
 
-### 1. Generate MAPF instances from the CGSHOP21 instances
+### 1. MAPF instances from CGSHOP21 instances
 
 ### 2. Solve the MAPF instance
