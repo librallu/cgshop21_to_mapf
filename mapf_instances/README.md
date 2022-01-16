@@ -1,0 +1,1 @@
+Folder in which the generated MAPF instances will be generated.
