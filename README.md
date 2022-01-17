@@ -28,8 +28,17 @@ This repository uses the excellent [libMultiRobotPlanning](https://github.com/wh
 
 ### 1. MAPF instances from CGSHOP21 instances
 
+```
+for f in cgshop_instances/images/*.json; do; ./cgshop_to_mapf.py "${f}" > "${f}.yml"; done;
+for f in cgshop_instances/uniform/*.json; do; ./cgshop_to_mapf.py "${f}" > "${f}.yml"; done;
+```
+
+
 ### 2. Solve the MAPF instance
 
+```
+./libMultiRobotPlanning/build/mapf_prioritized_sipp -i mapf_instances/clouds_00004_50x50_75_1745.instance.json.yml  -o mapf_outputs/small_free_000_10x10_30_30.instance.json.yml
+```
 
 
 
