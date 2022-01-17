@@ -8,7 +8,7 @@ This repository uses the excellent [libMultiRobotPlanning](https://github.com/wh
 
 ## Installation
 
-1. `git clone [TODO]`
+1. `git clone git@github.com:librallu/cgshop21_to_mapf.git`
 2. install prerequisites (python3) and libMultiRobotPlanning prerequisites (cmake, boost, lib-yaml, doxygen):
     - linux (debian) commands: `sudo apt-get install python3 cmake libyaml-cpp-dev doxygen libboost-all-dev`
 3. compile libMultiRobotPlanning:
