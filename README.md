@@ -2,6 +2,10 @@
 
 This repository uses the excellent [libMultiRobotPlanning](https://github.com/whoenig/libMultiRobotPlanning) that implements various solvers for the Multi-Agent Path Finding problem.
 
+
+
+
+
 ## Installation
 
 1. `git clone [TODO]`
@@ -17,8 +21,18 @@ This repository uses the excellent [libMultiRobotPlanning](https://github.com/wh
     cd ../../
     ```
 
+
+
+
 ## Workflow
 
 ### 1. MAPF instances from CGSHOP21 instances
 
 ### 2. Solve the MAPF instance
+
+
+
+
+## Useful links
+
+ - [challenge website](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2021/#problem-description)

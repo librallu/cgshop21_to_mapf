@@ -1,0 +1,403 @@
+agents:
+-   goal: [32, 28]
+    name: agent_0
+    start: [33, 49]
+-   goal: [28, 26]
+    name: agent_1
+    start: [25, 28]
+-   goal: [29, 50]
+    name: agent_2
+    start: [38, 54]
+-   goal: [32, 53]
+    name: agent_3
+    start: [53, 46]
+-   goal: [50, 52]
+    name: agent_4
+    start: [27, 26]
+-   goal: [54, 27]
+    name: agent_5
+    start: [31, 47]
+-   goal: [53, 39]
+    name: agent_6
+    start: [50, 49]
+-   goal: [26, 51]
+    name: agent_7
+    start: [53, 29]
+-   goal: [53, 36]
+    name: agent_8
+    start: [47, 47]
+-   goal: [49, 46]
+    name: agent_9
+    start: [34, 28]
+-   goal: [50, 46]
+    name: agent_10
+    start: [51, 26]
+-   goal: [54, 45]
+    name: agent_11
+    start: [47, 36]
+-   goal: [29, 49]
+    name: agent_12
+    start: [54, 45]
+-   goal: [50, 54]
+    name: agent_13
+    start: [48, 38]
+-   goal: [33, 46]
+    name: agent_14
+    start: [47, 53]
+-   goal: [34, 25]
+    name: agent_15
+    start: [43, 53]
+-   goal: [47, 50]
+    name: agent_16
+    start: [54, 53]
+-   goal: [26, 40]
+    name: agent_17
+    start: [51, 28]
+-   goal: [28, 54]
+    name: agent_18
+    start: [28, 48]
+-   goal: [54, 44]
+    name: agent_19
+    start: [54, 26]
+-   goal: [53, 34]
+    name: agent_20
+    start: [36, 44]
+-   goal: [43, 25]
+    name: agent_21
+    start: [54, 37]
+-   goal: [37, 49]
+    name: agent_22
+    start: [50, 37]
+-   goal: [35, 49]
+    name: agent_23
+    start: [28, 54]
+-   goal: [54, 30]
+    name: agent_24
+    start: [44, 27]
+-   goal: [50, 51]
+    name: agent_25
+    start: [45, 49]
+-   goal: [54, 43]
+    name: agent_26
+    start: [26, 40]
+-   goal: [33, 51]
+    name: agent_27
+    start: [52, 34]
+-   goal: [33, 49]
+    name: agent_28
+    start: [34, 51]
+-   goal: [52, 28]
+    name: agent_29
+    start: [53, 40]
+-   goal: [46, 51]
+    name: agent_30
+    start: [54, 54]
+-   goal: [34, 50]
+    name: agent_31
+    start: [27, 48]
+-   goal: [48, 27]
+    name: agent_32
+    start: [51, 52]
+-   goal: [35, 51]
+    name: agent_33
+    start: [25, 25]
+-   goal: [46, 54]
+    name: agent_34
+    start: [44, 25]
+-   goal: [33, 27]
+    name: agent_35
+    start: [40, 31]
+-   goal: [52, 40]
+    name: agent_36
+    start: [44, 51]
+-   goal: [53, 48]
+    name: agent_37
+    start: [47, 40]
+-   goal: [29, 51]
+    name: agent_38
+    start: [48, 47]
+-   goal: [29, 52]
+    name: agent_39
+    start: [53, 26]
+-   goal: [34, 48]
+    name: agent_40
+    start: [26, 53]
+-   goal: [37, 54]
+    name: agent_41
+    start: [29, 26]
+-   goal: [46, 40]
+    name: agent_42
+    start: [25, 34]
+-   goal: [52, 33]
+    name: agent_43
+    start: [26, 28]
+-   goal: [35, 54]
+    name: agent_44
+    start: [51, 49]
+-   goal: [49, 53]
+    name: agent_45
+    start: [36, 25]
+-   goal: [49, 26]
+    name: agent_46
+    start: [32, 51]
+-   goal: [31, 28]
+    name: agent_47
+    start: [35, 47]
+-   goal: [50, 39]
+    name: agent_48
+    start: [48, 25]
+-   goal: [33, 47]
+    name: agent_49
+    start: [28, 26]
+-   goal: [45, 25]
+    name: agent_50
+    start: [32, 53]
+-   goal: [30, 51]
+    name: agent_51
+    start: [26, 26]
+-   goal: [46, 26]
+    name: agent_52
+    start: [34, 54]
+-   goal: [30, 47]
+    name: agent_53
+    start: [47, 37]
+-   goal: [25, 30]
+    name: agent_54
+    start: [25, 54]
+-   goal: [34, 51]
+    name: agent_55
+    start: [50, 26]
+-   goal: [48, 54]
+    name: agent_56
+    start: [50, 52]
+-   goal: [28, 48]
+    name: agent_57
+    start: [35, 49]
+-   goal: [39, 27]
+    name: agent_58
+    start: [29, 25]
+-   goal: [53, 47]
+    name: agent_59
+    start: [46, 44]
+-   goal: [29, 26]
+    name: agent_60
+    start: [49, 48]
+-   goal: [25, 35]
+    name: agent_61
+    start: [27, 52]
+-   goal: [26, 25]
+    name: agent_62
+    start: [28, 25]
+-   goal: [45, 49]
+    name: agent_63
+    start: [28, 52]
+-   goal: [47, 29]
+    name: agent_64
+    start: [47, 51]
+-   goal: [49, 45]
+    name: agent_65
+    start: [25, 26]
+-   goal: [43, 53]
+    name: agent_66
+    start: [40, 30]
+-   goal: [51, 53]
+    name: agent_67
+    start: [48, 39]
+-   goal: [31, 53]
+    name: agent_68
+    start: [25, 35]
+-   goal: [54, 32]
+    name: agent_69
+    start: [27, 51]
+-   goal: [28, 53]
+    name: agent_70
+    start: [50, 50]
+-   goal: [25, 31]
+    name: agent_71
+    start: [37, 48]
+-   goal: [54, 38]
+    name: agent_72
+    start: [54, 49]
+-   goal: [54, 47]
+    name: agent_73
+    start: [37, 46]
+-   goal: [36, 47]
+    name: agent_74
+    start: [54, 48]
+-   goal: [47, 28]
+    name: agent_75
+    start: [49, 54]
+-   goal: [35, 52]
+    name: agent_76
+    start: [54, 44]
+-   goal: [49, 29]
+    name: agent_77
+    start: [51, 40]
+-   goal: [52, 32]
+    name: agent_78
+    start: [54, 34]
+-   goal: [27, 26]
+    name: agent_79
+    start: [43, 29]
+-   goal: [48, 48]
+    name: agent_80
+    start: [45, 38]
+-   goal: [35, 48]
+    name: agent_81
+    start: [25, 52]
+-   goal: [51, 27]
+    name: agent_82
+    start: [46, 40]
+-   goal: [33, 50]
+    name: agent_83
+    start: [50, 29]
+-   goal: [31, 47]
+    name: agent_84
+    start: [25, 51]
+-   goal: [29, 54]
+    name: agent_85
+    start: [43, 27]
+-   goal: [45, 26]
+    name: agent_86
+    start: [48, 46]
+-   goal: [40, 32]
+    name: agent_87
+    start: [29, 51]
+-   goal: [48, 37]
+    name: agent_88
+    start: [39, 54]
+-   goal: [26, 28]
+    name: agent_89
+    start: [48, 28]
+map:
+    dimensions: [80,80]
+    obstacles:
+    - [25, 41]
+    - [25, 42]
+    - [25, 43]
+    - [25, 44]
+    - [25, 45]
+    - [25, 46]
+    - [26, 30]
+    - [26, 31]
+    - [26, 32]
+    - [26, 33]
+    - [26, 34]
+    - [26, 35]
+    - [26, 36]
+    - [26, 37]
+    - [26, 38]
+    - [26, 41]
+    - [26, 46]
+    - [27, 29]
+    - [27, 39]
+    - [27, 40]
+    - [27, 46]
+    - [28, 29]
+    - [28, 46]
+    - [29, 29]
+    - [29, 46]
+    - [30, 30]
+    - [30, 46]
+    - [31, 30]
+    - [31, 46]
+    - [32, 30]
+    - [32, 44]
+    - [32, 45]
+    - [32, 46]
+    - [33, 30]
+    - [33, 43]
+    - [34, 30]
+    - [34, 43]
+    - [35, 28]
+    - [35, 29]
+    - [35, 43]
+    - [36, 28]
+    - [36, 43]
+    - [36, 51]
+    - [36, 52]
+    - [36, 53]
+    - [37, 28]
+    - [37, 43]
+    - [37, 51]
+    - [37, 53]
+    - [38, 28]
+    - [38, 44]
+    - [38, 45]
+    - [38, 46]
+    - [38, 47]
+    - [38, 48]
+    - [38, 49]
+    - [38, 50]
+    - [38, 53]
+    - [39, 28]
+    - [39, 29]
+    - [39, 30]
+    - [39, 31]
+    - [39, 32]
+    - [39, 33]
+    - [39, 53]
+    - [40, 34]
+    - [40, 53]
+    - [41, 31]
+    - [41, 32]
+    - [41, 33]
+    - [41, 53]
+    - [42, 31]
+    - [42, 51]
+    - [42, 53]
+    - [43, 31]
+    - [43, 50]
+    - [43, 52]
+    - [44, 30]
+    - [44, 38]
+    - [44, 39]
+    - [44, 40]
+    - [44, 49]
+    - [44, 50]
+    - [44, 52]
+    - [45, 30]
+    - [45, 36]
+    - [45, 37]
+    - [45, 41]
+    - [45, 42]
+    - [45, 43]
+    - [45, 44]
+    - [45, 48]
+    - [45, 52]
+    - [46, 30]
+    - [46, 35]
+    - [46, 45]
+    - [46, 46]
+    - [46, 47]
+    - [46, 48]
+    - [47, 30]
+    - [47, 35]
+    - [47, 41]
+    - [47, 42]
+    - [47, 43]
+    - [47, 44]
+    - [48, 30]
+    - [48, 35]
+    - [48, 41]
+    - [48, 44]
+    - [49, 30]
+    - [49, 35]
+    - [49, 41]
+    - [49, 44]
+    - [50, 30]
+    - [50, 35]
+    - [50, 41]
+    - [50, 44]
+    - [51, 30]
+    - [51, 31]
+    - [51, 32]
+    - [51, 33]
+    - [51, 34]
+    - [51, 35]
+    - [51, 41]
+    - [51, 44]
+    - [52, 41]
+    - [52, 42]
+    - [52, 43]
+    - [52, 44]

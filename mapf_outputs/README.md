@@ -1,0 +1,1 @@
+Folder in which the generated MAPF outputs will be generated.

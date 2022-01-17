@@ -1,0 +1,125 @@
+agents:
+-   goal: [33, 30]
+    name: agent_0
+    start: [34, 26]
+-   goal: [33, 33]
+    name: agent_1
+    start: [34, 32]
+-   goal: [25, 26]
+    name: agent_2
+    start: [33, 28]
+-   goal: [34, 26]
+    name: agent_3
+    start: [32, 25]
+-   goal: [33, 31]
+    name: agent_4
+    start: [34, 25]
+-   goal: [34, 33]
+    name: agent_5
+    start: [27, 26]
+-   goal: [32, 34]
+    name: agent_6
+    start: [25, 34]
+-   goal: [33, 25]
+    name: agent_7
+    start: [32, 27]
+-   goal: [32, 30]
+    name: agent_8
+    start: [34, 29]
+-   goal: [30, 25]
+    name: agent_9
+    start: [34, 34]
+-   goal: [33, 32]
+    name: agent_10
+    start: [34, 33]
+-   goal: [25, 34]
+    name: agent_11
+    start: [29, 25]
+-   goal: [32, 26]
+    name: agent_12
+    start: [33, 32]
+-   goal: [29, 25]
+    name: agent_13
+    start: [33, 29]
+-   goal: [32, 33]
+    name: agent_14
+    start: [25, 26]
+-   goal: [26, 25]
+    name: agent_15
+    start: [33, 26]
+-   goal: [34, 31]
+    name: agent_16
+    start: [30, 34]
+-   goal: [32, 27]
+    name: agent_17
+    start: [29, 26]
+-   goal: [32, 28]
+    name: agent_18
+    start: [28, 25]
+-   goal: [26, 34]
+    name: agent_19
+    start: [33, 30]
+-   goal: [31, 27]
+    name: agent_20
+    start: [32, 26]
+-   goal: [31, 28]
+    name: agent_21
+    start: [33, 31]
+-   goal: [30, 34]
+    name: agent_22
+    start: [32, 31]
+-   goal: [34, 30]
+    name: agent_23
+    start: [33, 25]
+-   goal: [33, 28]
+    name: agent_24
+    start: [34, 31]
+-   goal: [33, 34]
+    name: agent_25
+    start: [30, 26]
+-   goal: [34, 25]
+    name: agent_26
+    start: [34, 27]
+-   goal: [34, 32]
+    name: agent_27
+    start: [32, 34]
+-   goal: [28, 26]
+    name: agent_28
+    start: [32, 30]
+-   goal: [29, 26]
+    name: agent_29
+    start: [31, 25]
+-   goal: [28, 25]
+    name: agent_30
+    start: [34, 30]
+-   goal: [32, 25]
+    name: agent_31
+    start: [26, 26]
+-   goal: [32, 29]
+    name: agent_32
+    start: [26, 34]
+map:
+    dimensions: [60,60]
+    obstacles:
+    - [25, 27]
+    - [25, 28]
+    - [25, 29]
+    - [25, 30]
+    - [25, 31]
+    - [25, 32]
+    - [25, 33]
+    - [26, 27]
+    - [26, 33]
+    - [27, 27]
+    - [27, 33]
+    - [28, 27]
+    - [28, 33]
+    - [29, 27]
+    - [29, 33]
+    - [30, 27]
+    - [30, 28]
+    - [30, 33]
+    - [31, 29]
+    - [31, 30]
+    - [31, 31]
+    - [31, 32]

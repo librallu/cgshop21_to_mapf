@@ -1,0 +1,124 @@
+agents:
+-   goal: [106, 105]
+    name: agent_0
+    start: [103, 108]
+-   goal: [106, 107]
+    name: agent_1
+    start: [108, 109]
+-   goal: [107, 107]
+    name: agent_2
+    start: [104, 108]
+-   goal: [105, 106]
+    name: agent_3
+    start: [107, 102]
+-   goal: [102, 106]
+    name: agent_4
+    start: [105, 105]
+-   goal: [104, 109]
+    name: agent_5
+    start: [102, 106]
+-   goal: [103, 109]
+    name: agent_6
+    start: [107, 109]
+-   goal: [109, 109]
+    name: agent_7
+    start: [101, 108]
+-   goal: [101, 108]
+    name: agent_8
+    start: [101, 106]
+-   goal: [107, 101]
+    name: agent_9
+    start: [102, 105]
+-   goal: [106, 109]
+    name: agent_10
+    start: [103, 102]
+-   goal: [108, 109]
+    name: agent_11
+    start: [105, 106]
+-   goal: [105, 107]
+    name: agent_12
+    start: [100, 108]
+-   goal: [104, 105]
+    name: agent_13
+    start: [109, 102]
+-   goal: [108, 104]
+    name: agent_14
+    start: [100, 109]
+-   goal: [105, 105]
+    name: agent_15
+    start: [108, 101]
+-   goal: [106, 104]
+    name: agent_16
+    start: [106, 108]
+-   goal: [104, 104]
+    name: agent_17
+    start: [100, 107]
+-   goal: [103, 106]
+    name: agent_18
+    start: [107, 101]
+-   goal: [102, 105]
+    name: agent_19
+    start: [103, 107]
+-   goal: [109, 105]
+    name: agent_20
+    start: [100, 106]
+-   goal: [106, 106]
+    name: agent_21
+    start: [105, 101]
+-   goal: [103, 107]
+    name: agent_22
+    start: [106, 105]
+-   goal: [108, 102]
+    name: agent_23
+    start: [101, 107]
+-   goal: [106, 108]
+    name: agent_24
+    start: [102, 103]
+-   goal: [108, 106]
+    name: agent_25
+    start: [105, 108]
+-   goal: [108, 103]
+    name: agent_26
+    start: [100, 105]
+-   goal: [107, 102]
+    name: agent_27
+    start: [103, 106]
+-   goal: [102, 107]
+    name: agent_28
+    start: [109, 105]
+-   goal: [104, 107]
+    name: agent_29
+    start: [108, 104]
+-   goal: [100, 105]
+    name: agent_30
+    start: [101, 104]
+-   goal: [109, 103]
+    name: agent_31
+    start: [106, 106]
+-   goal: [105, 101]
+    name: agent_32
+    start: [104, 107]
+-   goal: [102, 108]
+    name: agent_33
+    start: [107, 100]
+-   goal: [105, 104]
+    name: agent_34
+    start: [107, 105]
+-   goal: [107, 106]
+    name: agent_35
+    start: [108, 106]
+-   goal: [101, 107]
+    name: agent_36
+    start: [101, 102]
+-   goal: [107, 103]
+    name: agent_37
+    start: [101, 105]
+-   goal: [104, 101]
+    name: agent_38
+    start: [103, 109]
+-   goal: [102, 104]
+    name: agent_39
+    start: [107, 104]
+map:
+    dimensions: [210,210]
+    obstacles:
